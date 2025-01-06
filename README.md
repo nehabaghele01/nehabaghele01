@@ -5,7 +5,11 @@
 - 😄 Gitsetcode Girls community member
 - 😄 GirlScript Summer Of Code'24
 - 👋 I’m looking to collaborate on projetcs  
-- 📫 How to reach me 
+- 📫 How to reach me www.linkedin.com/in/
+neha-baghele-621050268
+
+
+
 
 
 <!---
