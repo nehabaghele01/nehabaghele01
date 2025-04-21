@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Neha Baghele.
 - 👀 Looking for an internship.
-- 🌱 I’m currently learning DSA and Web development
 - 😄 I’m interested in C++,C,Python
 - 😄 Gitsetcode Girls community member
 - 😄 GirlScript Summer Of Code'24
