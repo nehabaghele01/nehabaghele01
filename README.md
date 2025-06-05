@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Neha Baghele.
 - 👀 Looking for an internship.
-- 😄 I’m interested in C++,C,Python
 - 😄 Gitsetcode Girls community member
 - 😄 GirlScript Summer Of Code'24
 - 👋 I’m looking to collaborate on projetcs  
