@@ -68,7 +68,7 @@
 
 ## 🏠 Airbnb Clone – Full Stack
 🔗 Live Demo: [Airbnb Clone](https://majorproject-fullstack-2.onrender.com/listings)  
-🔗 GitHub: [Repo Link](https://github.com/nehabaghele01/majorproject-fullstack-2)
+🔗 GitHub: [Repo Link](https://github.com/nehabaghele01/MAJORPROJECT-FULLSTACK)
 
 **Key Features**
 - User authentication & authorization  
