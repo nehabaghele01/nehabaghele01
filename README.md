@@ -11,18 +11,26 @@
 # 👩‍💻 About Me
 🎓 BTech in **Computer Science Engineering (2023–2027)**  
 💻 Passionate about **Web Development & Backend Engineering**  
-📚 Currently practicing **Data Structures & Algorithms for placements**  
+📚 Practicing **Data Structures & Algorithms for placements**  
 🚀 Love building **real-world applications using the MERN stack**
 
+✨ *I believe in learning by building practical projects.*
 
 ---
 
-# 🌐 Connect With Me
+## 🌱 Currently Learning
+- Advanced **Backend Development (Node.js & Express.js)**  
+- **Data Structures & Algorithms** for placements  
+- Writing **clean, maintainable, scalable code**
+
+---
+
+## 🌐 Connect With Me
 <p>
 <a href="https://www.linkedin.com/in/neha-baghele-621050268"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://github.com/nehabaghele01"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 <a href="https://leetcode.com/u/CoderLeetcode15/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
-<a href="mailto:nehabaghele007@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:nehabaghele007@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
@@ -49,7 +57,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-### Tools
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
@@ -59,14 +67,15 @@
 
 # 🚀 Featured Projects
 
-## 🏠 Airbnb Clone – Full Stack Web Application
-🔗 https://majorproject-fullstack-2.onrender.com/listings
+## 🏠 Airbnb Clone – Full Stack
+🔗 Live Demo: [Airbnb Clone](https://majorproject-fullstack-2.onrender.com/listings)  
+🔗 GitHub: [Repo Link](https://github.com/nehabaghele01/majorproject-fullstack-2)
 
-**Features**
+**Key Features**
 - User authentication & authorization  
 - Create, edit, and delete property listings  
-- Image upload system  
-- Review and rating functionality  
+- Image upload for listings  
+- Review & rating system  
 - Secure routes for logged-in users  
 
 **Tech:** MongoDB | Express.js | Node.js | EJS | JavaScript
@@ -74,22 +83,21 @@
 ---
 
 ## 🍽 Restaurant Management System (Full Stack)
-🔗 https://github.com/nehabaghele01/restaurant-management-system-fullstack
+🔗 GitHub: [Restaurant Management](https://github.com/nehabaghele01/restaurant-management-system-fullstack)
 
-**Features**
+**Key Features**
 - Manage restaurant operations  
-- Add, update, and manage menu items  
-- Backend APIs with database integration  
-- Full stack application structure
+- Menu management and backend APIs  
+- Database integration for storing restaurant data  
 
 **Tech:** Node.js | Express | MongoDB | JavaScript
 
 ---
 
 ## 🏡 Luxury Real Estate Rentals (React)
-🔗 https://github.com/nehabaghele01/luxury-real-estate-rentals-react
+🔗 GitHub: [Luxury Real Estate](https://github.com/nehabaghele01/luxury-real-estate-rentals-react)
 
-**Features**
+**Key Features**
 - Modern responsive UI  
 - Property listing interface  
 - React-based component architecture  
@@ -99,13 +107,12 @@
 ---
 
 # 📊 GitHub Stats
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nehabaghele01&show_icons=true&theme=radical">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehabaghele01&theme=radical">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=nehabaghele01&theme=radical"/>
 </p>
 
 <p align="center">
