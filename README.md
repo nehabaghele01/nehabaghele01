@@ -14,7 +14,6 @@
 📚 Practicing **Data Structures & Algorithms for placements**  
 🚀 Love building **real-world applications using the MERN stack**
 
-✨ *I believe in learning by building practical projects.*
 
 ---
 
