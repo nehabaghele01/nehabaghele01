@@ -1,66 +1,122 @@
-# 👋 Hi, I'm Neha Baghele
+<!-- Typing Animation -->
+<h1 align="center">Hi 👋, I'm Neha Baghele</h1>
+<h3 align="center">Aspiring Software Engineer | MERN Stack Developer | DSA Learner</h3>
 
-🎓 BTech in Computer Science Engineering (2023–2027)  
-💻 Aspiring Software Engineer  
-📍 Madhya Pradesh, India  
-
----
-
-## 🚀 About Me
-Aspiring **Software Engineer** passionate about **Web Development, Backend Engineering, and Data Structures & Algorithms**.  
-I enjoy building **real-world projects using the MERN stack** and continuously improving my **problem-solving skills**.
-
-- 💻 Currently learning **MERN Stack & Backend Development**
-- 📚 Practicing **DSA for placements**
-- 🚀 Love building **impactful and user-focused applications**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineering+Student;Aspiring+Software+Engineer;MERN+Stack+Developer;DSA+Learner&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nehabaghele15/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-baghele-621050268/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nehabaghele007@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/CoderLeetcode15/)
+# 👩‍💻 About Me
+🎓 BTech in **Computer Science Engineering (2023–2027)**  
+💻 Passionate about **Web Development & Backend Engineering**  
+📚 Currently practicing **Data Structures & Algorithms for placements**  
+🚀 Love building **real-world applications using the MERN stack**
+
 
 ---
 
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 🌐 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/neha-baghele-621050268"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://github.com/nehabaghele01"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="https://leetcode.com/u/CoderLeetcode15/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+<a href="mailto:nehabaghele007@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwind-css)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
+
+---
+
+# 🚀 Featured Projects
+
+## 🏠 Airbnb Clone – Full Stack Web Application
+🔗 https://majorproject-fullstack-2.onrender.com/listings
+
+**Features**
+- User authentication & authorization  
+- Create, edit, and delete property listings  
+- Image upload system  
+- Review and rating functionality  
+- Secure routes for logged-in users  
+
+**Tech:** MongoDB | Express.js | Node.js | EJS | JavaScript
+
+---
+
+## 🍽 Restaurant Management System (Full Stack)
+🔗 https://github.com/nehabaghele01/restaurant-management-system-fullstack
+
+**Features**
+- Manage restaurant operations  
+- Add, update, and manage menu items  
+- Backend APIs with database integration  
+- Full stack application structure
+
+**Tech:** Node.js | Express | MongoDB | JavaScript
+
+---
+
+## 🏡 Luxury Real Estate Rentals (React)
+🔗 https://github.com/nehabaghele01/luxury-real-estate-rentals-react
+
+**Features**
+- Modern responsive UI  
+- Property listing interface  
+- React-based component architecture  
+
+**Tech:** React | JavaScript | CSS
 
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nehabaghele01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=nehabaghele01&theme=dark&hide_border=false)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nehabaghele01&show_icons=true&theme=radical">
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nehabaghele01&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehabaghele01&theme=radical">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehabaghele01&layout=compact&theme=radical">
+</p>
 
 ---
 
-✨ *Consistent learning > overnight success*
+# 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehabaghele01&theme=react-dark">
+
+---
+
+⭐ **Consistent learning > overnight success**
