@@ -103,26 +103,6 @@
 
 **Tech:** React | JavaScript | CSS
 
----
 
-# 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nehabaghele01&show_icons=true&theme=radical">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=nehabaghele01&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehabaghele01&layout=compact&theme=radical">
-</p>
-
----
-
-# 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehabaghele01&theme=react-dark">
-
----
 
 ⭐ **Consistent learning > overnight success**
