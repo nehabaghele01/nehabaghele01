@@ -28,7 +28,7 @@
 <p>
 <a href="https://www.linkedin.com/in/neha-baghele-621050268"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://github.com/nehabaghele01"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-<a href="https://leetcode.com/u/CoderLeetcode15/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+<a href="https://leetcode.com/u/CodeBit15/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
 <a href="mailto:nehabaghele007@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
